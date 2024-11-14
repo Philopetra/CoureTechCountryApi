@@ -1,0 +1,6 @@
+@CoureTechCountryApi.Api_HostAddress = http://localhost:5119
+
+GET {{CoureTechCountryApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
